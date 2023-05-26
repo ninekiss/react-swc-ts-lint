@@ -1,6 +1,6 @@
 # React SWC TS Lint
 
-An template of React, with Vite + SWC + TypeScript + ESLint + Prettier + Husky + lint-staged
+A template of React, with Vite + SWC + TypeScript + ESLint + Prettier + Husky + lint-staged.
 
 ## Usage:
 
